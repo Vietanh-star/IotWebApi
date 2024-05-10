@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MRDyKXkM1Kf1q+rE/1N9Y3AVNex474LLajW1ktnH0Pg=",
+  "Source": "IotServer",
+  "BasePath": "_content/IotServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
